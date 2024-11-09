@@ -1,11 +1,10 @@
 # VBAinExcelSnapGuides
 This project provides comprehensive, quick, and easy-to-follow VBA in Excel insights for professionals!
-Chapter	Page No.	Title	Three Main Things You Learn
 
 Page 1:	What is VBA in Excel?
 - What is VBA in Excel and some definitions
 - What is a Macro and where you can write your codes
-- How to activate the Developer tab and how to go to VB Editor/Window"
+- How to activate the Developer tab and how to go to VB Editor Window
 
 Page 2:	VBA Editor
 - What is the VB Editor Window
