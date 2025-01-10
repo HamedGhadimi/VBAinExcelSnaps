@@ -17,9 +17,9 @@ Page 3: How to record a Macro?
 - How to create PERSONAL.XLSB and what is it used for
 
 Page 4: Where Can you Write macros?
--VBA Macros can be written in five different types of modules: Standard, Worksheets, Workbook, Class, and User Forms.
--Each module serves a distinct purpose: ranging from general automation to object-oriented programming and user interaction.
--Choosing the right module depends on the task: such as handling events, automating workflows, or creating GUIs.
+- VBA Macros can be written in five different types of modules: Standard, Worksheets, Workbook, Class, and User Forms.
+- Each module serves a distinct purpose: ranging from general automation to object-oriented programming and user interaction.
+- Choosing the right module depends on the task: such as handling events, automating workflows, or creating GUIs.
 
 Page 5: What is an Object in VBA?
 - Definition and Use of Objects: Understand that objects represent Excel components like workbooks, worksheets, and ranges, making them the core building blocks of VBA programming.
